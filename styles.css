@@ -1,0 +1,13 @@
+.bg-m{
+    background-color: rgb(155, 148, 216);
+}
+
+.card{
+    width: 285px;
+}
+
+.card img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    opacity: 0.9;
+}
